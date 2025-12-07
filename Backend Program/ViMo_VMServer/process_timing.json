@@ -1,0 +1,785 @@
+{
+  "processes": [
+    {
+      "process_number": 1,
+      "start_time": "26-06-2025 19:17:27",
+      "end_time": "26-06-2025 19:18:00",
+      "duration_seconds": 32.42326045036316,
+      "duration_formatted": "32.42 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 11.594512701034546,
+          "formatted": "11.59 detik"
+        },
+        "face_recognition": {
+          "seconds": 11.903499603271484,
+          "formatted": "11.90 detik"
+        },
+        "facial_expression": {
+          "seconds": 20.698291540145874,
+          "formatted": "20.70 detik"
+        },
+        "post_processing": {
+          "seconds": 0.08219170570373535,
+          "formatted": "0.08 detik"
+        },
+        "total": {
+          "seconds": 32.42326045036316,
+          "formatted": "32.42 detik"
+        }
+      }
+    },
+    {
+      "process_number": 2,
+      "start_time": "26-06-2025 19:18:15",
+      "end_time": "26-06-2025 19:18:39",
+      "duration_seconds": 24.61336350440979,
+      "duration_formatted": "24.61 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 6.957887649536133,
+          "formatted": "6.96 detik"
+        },
+        "face_recognition": {
+          "seconds": 15.418360471725464,
+          "formatted": "15.42 detik"
+        },
+        "facial_expression": {
+          "seconds": 17.551225423812866,
+          "formatted": "17.55 detik"
+        },
+        "post_processing": {
+          "seconds": 0.07202458381652832,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 24.61336350440979,
+          "formatted": "24.61 detik"
+        }
+      }
+    },
+    {
+      "process_number": 3,
+      "start_time": "26-06-2025 19:18:49",
+      "end_time": "26-06-2025 19:19:12",
+      "duration_seconds": 22.155741453170776,
+      "duration_formatted": "22.16 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 6.959308624267578,
+          "formatted": "6.96 detik"
+        },
+        "face_recognition": {
+          "seconds": 13.220528602600098,
+          "formatted": "13.22 detik"
+        },
+        "facial_expression": {
+          "seconds": 15.095071792602539,
+          "formatted": "15.10 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06554722785949707,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 22.155741453170776,
+          "formatted": "22.16 detik"
+        }
+      }
+    },
+    {
+      "process_number": 4,
+      "start_time": "26-06-2025 19:19:22",
+      "end_time": "26-06-2025 19:19:42",
+      "duration_seconds": 19.857567310333252,
+      "duration_formatted": "19.86 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 5.908141851425171,
+          "formatted": "5.91 detik"
+        },
+        "face_recognition": {
+          "seconds": 11.53495717048645,
+          "formatted": "11.53 detik"
+        },
+        "facial_expression": {
+          "seconds": 13.847852230072021,
+          "formatted": "13.85 detik"
+        },
+        "post_processing": {
+          "seconds": 0.0639197826385498,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 19.857567310333252,
+          "formatted": "19.86 detik"
+        }
+      }
+    },
+    {
+      "process_number": 5,
+      "start_time": "26-06-2025 19:19:52",
+      "end_time": "26-06-2025 19:20:14",
+      "duration_seconds": 22.2636981010437,
+      "duration_formatted": "22.26 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 7.028594732284546,
+          "formatted": "7.03 detik"
+        },
+        "face_recognition": {
+          "seconds": 13.606168985366821,
+          "formatted": "13.61 detik"
+        },
+        "facial_expression": {
+          "seconds": 15.12856912612915,
+          "formatted": "15.13 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06502366065979004,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 22.2636981010437,
+          "formatted": "22.26 detik"
+        }
+      }
+    },
+    {
+      "process_number": 6,
+      "start_time": "26-06-2025 19:20:39",
+      "end_time": "26-06-2025 19:21:00",
+      "duration_seconds": 21.360822677612305,
+      "duration_formatted": "21.36 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 6.59533166885376,
+          "formatted": "6.60 detik"
+        },
+        "face_recognition": {
+          "seconds": 12.81275224685669,
+          "formatted": "12.81 detik"
+        },
+        "facial_expression": {
+          "seconds": 14.664120435714722,
+          "formatted": "14.66 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06148409843444824,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 21.360822677612305,
+          "formatted": "21.36 detik"
+        }
+      }
+    },
+    {
+      "process_number": 7,
+      "start_time": "26-06-2025 19:21:15",
+      "end_time": "26-06-2025 19:21:37",
+      "duration_seconds": 21.51477813720703,
+      "duration_formatted": "21.51 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 6.783011198043823,
+          "formatted": "6.78 detik"
+        },
+        "face_recognition": {
+          "seconds": 12.266173362731934,
+          "formatted": "12.27 detik"
+        },
+        "facial_expression": {
+          "seconds": 14.631300926208496,
+          "formatted": "14.63 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06449770927429199,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 21.51477813720703,
+          "formatted": "21.51 detik"
+        }
+      }
+    },
+    {
+      "process_number": 8,
+      "start_time": "26-06-2025 19:22:36",
+      "end_time": "26-06-2025 19:23:06",
+      "duration_seconds": 29.54591989517212,
+      "duration_formatted": "29.55 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 10.580610036849976,
+          "formatted": "10.58 detik"
+        },
+        "face_recognition": {
+          "seconds": 17.160427570343018,
+          "formatted": "17.16 detik"
+        },
+        "facial_expression": {
+          "seconds": 18.864997386932373,
+          "formatted": "18.86 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06507539749145508,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 29.54591989517212,
+          "formatted": "29.55 detik"
+        }
+      }
+    },
+    {
+      "process_number": 9,
+      "start_time": "26-06-2025 19:23:31",
+      "end_time": "26-06-2025 19:23:54",
+      "duration_seconds": 22.930428981781006,
+      "duration_formatted": "22.93 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 8.46974802017212,
+          "formatted": "8.47 detik"
+        },
+        "face_recognition": {
+          "seconds": 12.331034183502197,
+          "formatted": "12.33 detik"
+        },
+        "facial_expression": {
+          "seconds": 14.3635733127594,
+          "formatted": "14.36 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06426453590393066,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 22.930428981781006,
+          "formatted": "22.93 detik"
+        }
+      }
+    },
+    {
+      "process_number": 10,
+      "start_time": "26-06-2025 19:24:09",
+      "end_time": "26-06-2025 19:24:35",
+      "duration_seconds": 26.180480003356934,
+      "duration_formatted": "26.18 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 9.542342901229858,
+          "formatted": "9.54 detik"
+        },
+        "face_recognition": {
+          "seconds": 12.241028785705566,
+          "formatted": "12.24 detik"
+        },
+        "facial_expression": {
+          "seconds": 16.536497592926025,
+          "formatted": "16.54 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06764841079711914,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 26.180480003356934,
+          "formatted": "26.18 detik"
+        }
+      }
+    },
+    {
+      "process_number": 11,
+      "start_time": "26-06-2025 19:24:55",
+      "end_time": "26-06-2025 19:25:19",
+      "duration_seconds": 23.47754454612732,
+      "duration_formatted": "23.48 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 7.8235321044921875,
+          "formatted": "7.82 detik"
+        },
+        "face_recognition": {
+          "seconds": 14.007307529449463,
+          "formatted": "14.01 detik"
+        },
+        "facial_expression": {
+          "seconds": 15.55593729019165,
+          "formatted": "15.56 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06463766098022461,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 23.47754454612732,
+          "formatted": "23.48 detik"
+        }
+      }
+    },
+    {
+      "process_number": 12,
+      "start_time": "26-06-2025 19:25:39",
+      "end_time": "26-06-2025 19:26:03",
+      "duration_seconds": 24.204755067825317,
+      "duration_formatted": "24.20 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 7.897449254989624,
+          "formatted": "7.90 detik"
+        },
+        "face_recognition": {
+          "seconds": 12.20229959487915,
+          "formatted": "12.20 detik"
+        },
+        "facial_expression": {
+          "seconds": 16.20744299888611,
+          "formatted": "16.21 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06506752967834473,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 24.204755067825317,
+          "formatted": "24.20 detik"
+        }
+      }
+    },
+    {
+      "process_number": 13,
+      "start_time": "26-06-2025 19:26:18",
+      "end_time": "26-06-2025 19:26:46",
+      "duration_seconds": 28.269994735717773,
+      "duration_formatted": "28.27 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 9.302231073379517,
+          "formatted": "9.30 detik"
+        },
+        "face_recognition": {
+          "seconds": 17.024280786514282,
+          "formatted": "17.02 detik"
+        },
+        "facial_expression": {
+          "seconds": 18.8689227104187,
+          "formatted": "18.87 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06509709358215332,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 28.269994735717773,
+          "formatted": "28.27 detik"
+        }
+      }
+    },
+    {
+      "process_number": 14,
+      "start_time": "26-06-2025 19:27:31",
+      "end_time": "26-06-2025 19:27:55",
+      "duration_seconds": 24.04569387435913,
+      "duration_formatted": "24.05 detik",
+      "date": "26-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 8.004926919937134,
+          "formatted": "8.00 detik"
+        },
+        "face_recognition": {
+          "seconds": 11.739471673965454,
+          "formatted": "11.74 detik"
+        },
+        "facial_expression": {
+          "seconds": 15.933262586593628,
+          "formatted": "15.93 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06971144676208496,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 24.04569387435913,
+          "formatted": "24.05 detik"
+        }
+      }
+    },
+    {
+      "process_number": 15,
+      "start_time": "28-06-2025 11:48:56",
+      "end_time": "28-06-2025 11:49:34",
+      "duration_seconds": 37.623414278030396,
+      "duration_formatted": "37.62 detik",
+      "date": "28-06-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 14.364983797073364,
+          "formatted": "14.36 detik"
+        },
+        "face_recognition": {
+          "seconds": 13.107139825820923,
+          "formatted": "13.11 detik"
+        },
+        "facial_expression": {
+          "seconds": 23.143505334854126,
+          "formatted": "23.14 detik"
+        },
+        "post_processing": {
+          "seconds": 0.0694272518157959,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 37.623414278030396,
+          "formatted": "37.62 detik"
+        }
+      }
+    },
+    {
+      "process_number": 16,
+      "start_time": "05-07-2025 10:48:03",
+      "end_time": "05-07-2025 10:48:34",
+      "duration_seconds": 30.803478240966797,
+      "duration_formatted": "30.80 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 10.062259912490845,
+          "formatted": "10.06 detik"
+        },
+        "face_recognition": {
+          "seconds": 11.036486387252808,
+          "formatted": "11.04 detik"
+        },
+        "facial_expression": {
+          "seconds": 20.62404775619507,
+          "formatted": "20.62 detik"
+        },
+        "post_processing": {
+          "seconds": 0.0787651538848877,
+          "formatted": "0.08 detik"
+        },
+        "total": {
+          "seconds": 30.803478240966797,
+          "formatted": "30.80 detik"
+        }
+      }
+    },
+    {
+      "process_number": 17,
+      "start_time": "05-07-2025 10:50:29",
+      "end_time": "05-07-2025 10:50:52",
+      "duration_seconds": 23.512118816375732,
+      "duration_formatted": "23.51 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 6.080623626708984,
+          "formatted": "6.08 detik"
+        },
+        "face_recognition": {
+          "seconds": 15.009801864624023,
+          "formatted": "15.01 detik"
+        },
+        "facial_expression": {
+          "seconds": 17.30282235145569,
+          "formatted": "17.30 detik"
+        },
+        "post_processing": {
+          "seconds": 0.09447431564331055,
+          "formatted": "0.09 detik"
+        },
+        "total": {
+          "seconds": 23.512118816375732,
+          "formatted": "23.51 detik"
+        }
+      }
+    },
+    {
+      "process_number": 18,
+      "start_time": "05-07-2025 10:59:32",
+      "end_time": "05-07-2025 10:59:59",
+      "duration_seconds": 26.4984450340271,
+      "duration_formatted": "26.50 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 5.263164043426514,
+          "formatted": "5.26 detik"
+        },
+        "face_recognition": {
+          "seconds": 17.950461626052856,
+          "formatted": "17.95 detik"
+        },
+        "facial_expression": {
+          "seconds": 21.123875856399536,
+          "formatted": "21.12 detik"
+        },
+        "post_processing": {
+          "seconds": 0.07307815551757812,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 26.4984450340271,
+          "formatted": "26.50 detik"
+        }
+      }
+    },
+    {
+      "process_number": 19,
+      "start_time": "05-07-2025 11:01:44",
+      "end_time": "05-07-2025 11:02:10",
+      "duration_seconds": 26.155751943588257,
+      "duration_formatted": "26.16 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 6.391698837280273,
+          "formatted": "6.39 detik"
+        },
+        "face_recognition": {
+          "seconds": 18.138063192367554,
+          "formatted": "18.14 detik"
+        },
+        "facial_expression": {
+          "seconds": 19.666419506072998,
+          "formatted": "19.67 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06318283081054688,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 26.155751943588257,
+          "formatted": "26.16 detik"
+        }
+      }
+    },
+    {
+      "process_number": 20,
+      "start_time": "05-07-2025 11:02:50",
+      "end_time": "05-07-2025 11:03:18",
+      "duration_seconds": 27.81734037399292,
+      "duration_formatted": "27.82 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 6.620856046676636,
+          "formatted": "6.62 detik"
+        },
+        "face_recognition": {
+          "seconds": 18.521169900894165,
+          "formatted": "18.52 detik"
+        },
+        "facial_expression": {
+          "seconds": 21.096419095993042,
+          "formatted": "21.10 detik"
+        },
+        "post_processing": {
+          "seconds": 0.06276202201843262,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 27.81734037399292,
+          "formatted": "27.82 detik"
+        }
+      }
+    },
+    {
+      "process_number": 21,
+      "start_time": "05-07-2025 11:03:58",
+      "end_time": "05-07-2025 11:04:21",
+      "duration_seconds": 22.64601492881775,
+      "duration_formatted": "22.65 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 5.732783079147339,
+          "formatted": "5.73 detik"
+        },
+        "face_recognition": {
+          "seconds": 12.340351819992065,
+          "formatted": "12.34 detik"
+        },
+        "facial_expression": {
+          "seconds": 16.821128845214844,
+          "formatted": "16.82 detik"
+        },
+        "post_processing": {
+          "seconds": 0.05983901023864746,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 22.64601492881775,
+          "formatted": "22.65 detik"
+        }
+      }
+    },
+    {
+      "process_number": 22,
+      "start_time": "05-07-2025 11:05:01",
+      "end_time": "05-07-2025 11:05:24",
+      "duration_seconds": 22.467217445373535,
+      "duration_formatted": "22.47 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 5.660414695739746,
+          "formatted": "5.66 detik"
+        },
+        "face_recognition": {
+          "seconds": 12.299747705459595,
+          "formatted": "12.30 detik"
+        },
+        "facial_expression": {
+          "seconds": 16.70555806159973,
+          "formatted": "16.71 detik"
+        },
+        "post_processing": {
+          "seconds": 0.0628213882446289,
+          "formatted": "0.06 detik"
+        },
+        "total": {
+          "seconds": 22.467217445373535,
+          "formatted": "22.47 detik"
+        }
+      }
+    },
+    {
+      "process_number": 23,
+      "start_time": "05-07-2025 11:06:04",
+      "end_time": "05-07-2025 11:06:28",
+      "duration_seconds": 24.431435585021973,
+      "duration_formatted": "24.43 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 5.847936153411865,
+          "formatted": "5.85 detik"
+        },
+        "face_recognition": {
+          "seconds": 14.041900873184204,
+          "formatted": "14.04 detik"
+        },
+        "facial_expression": {
+          "seconds": 18.479900360107422,
+          "formatted": "18.48 detik"
+        },
+        "post_processing": {
+          "seconds": 0.0713498592376709,
+          "formatted": "0.07 detik"
+        },
+        "total": {
+          "seconds": 24.431435585021973,
+          "formatted": "24.43 detik"
+        }
+      }
+    },
+    {
+      "process_number": 24,
+      "start_time": "05-07-2025 11:07:03",
+      "end_time": "05-07-2025 11:07:40",
+      "duration_seconds": 36.10398459434509,
+      "duration_formatted": "36.10 detik",
+      "date": "05-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 12.580726146697998,
+          "formatted": "12.58 detik"
+        },
+        "face_recognition": {
+          "seconds": 21.433754205703735,
+          "formatted": "21.43 detik"
+        },
+        "facial_expression": {
+          "seconds": 23.389304876327515,
+          "formatted": "23.39 detik"
+        },
+        "post_processing": {
+          "seconds": 0.08957099914550781,
+          "formatted": "0.09 detik"
+        },
+        "total": {
+          "seconds": 36.10398459434509,
+          "formatted": "36.10 detik"
+        }
+      }
+    },
+    {
+      "process_number": 25,
+      "start_time": "09-07-2025 08:36:26",
+      "end_time": "09-07-2025 08:36:50",
+      "duration_seconds": 23.682960748672485,
+      "duration_formatted": "23.68 detik",
+      "date": "09-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 8.452648639678955,
+          "formatted": "8.45 detik"
+        },
+        "face_recognition": {
+          "seconds": 8.038939237594604,
+          "formatted": "8.04 detik"
+        },
+        "facial_expression": {
+          "seconds": 15.094873666763306,
+          "formatted": "15.09 detik"
+        },
+        "post_processing": {
+          "seconds": 0.09691214561462402,
+          "formatted": "0.10 detik"
+        },
+        "total": {
+          "seconds": 23.682960748672485,
+          "formatted": "23.68 detik"
+        }
+      }
+    },
+    {
+      "process_number": 26,
+      "start_time": "09-07-2025 08:45:46",
+      "end_time": "09-07-2025 08:46:05",
+      "duration_seconds": 19.13760232925415,
+      "duration_formatted": "19.14 detik",
+      "date": "09-07-2025",
+      "durations": {
+        "pre_processing": {
+          "seconds": 8.000268697738647,
+          "formatted": "8.00 detik"
+        },
+        "face_recognition": {
+          "seconds": 3.979628801345825,
+          "formatted": "3.98 detik"
+        },
+        "facial_expression": {
+          "seconds": 11.000677824020386,
+          "formatted": "11.00 detik"
+        },
+        "post_processing": {
+          "seconds": 0.09553265571594238,
+          "formatted": "0.10 detik"
+        },
+        "total": {
+          "seconds": 19.13760232925415,
+          "formatted": "19.14 detik"
+        }
+      }
+    }
+  ],
+  "session_start": null
+}
