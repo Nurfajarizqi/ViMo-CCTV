@@ -5,7 +5,7 @@ Emotions</h1>
   <img src="https://img.shields.io/badge/Object%20Detection-YOLOv8n-magenta?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Face%20Detection-MTCNN-crimson?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Face Recognition-FaceNet-dodgerblue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Facial Expression Recognition (FER)-EfficienNetB3-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Facial Expression Recognition-EfficienNetB3-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Classification-SVM-cornsilk?style=for-the-badge"/>
 </p>
 
